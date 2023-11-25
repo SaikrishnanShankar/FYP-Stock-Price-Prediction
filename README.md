@@ -15,7 +15,7 @@ Model:
 Result:
 
 - Predicted subsequent 7 days closing price of NIFTY-50 stocks with MAPE of 2.07%.
-- Outperformed state-of-the-art modes by 10% in predicting stock prices.
+- Outperformed state-of-the-art modes by 8% in predicting stock prices.
 
 
 
