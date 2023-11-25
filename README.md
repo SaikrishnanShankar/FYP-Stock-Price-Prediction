@@ -12,5 +12,10 @@ in CLERS-Net.
 Model:
 ![image](https://github.com/SaikrishnanShankar/FYP-Stock-Price-Prediction/assets/52532293/dc07871c-0c8e-4670-a7dc-34162d9ba9dc)
 
+Result:
+
+- Predicted subsequent 7 days closing price of NIFTY-50 stocks with MAPE of 2.07%.
+- Outperformed state-of-the-art modes by 10% in predicting stock prices.
+
 
 
